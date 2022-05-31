@@ -14,15 +14,22 @@
 #BIBLIOTECAS DO PROJETO
 
 	#include <stdio.h> (standard input output)
-	Usamos a biblioteca base do C, porque tem os elementos fundamentais para mostrar informação, tratar dados inseridos pelo teclado e outros.
+	Usamos a biblioteca base do C, porque tem os elementos fundamentais para mostrar informação, 
+	tratar dados inseridos pelo teclado e outros.
 
-SE VOCÊ CHEGOU ATÉ AQUI
+#SE VOCÊ CHEGOU ATÉ AQUI
+	
 	Muito obrigado pela atenção
 
-SOBRE O AUTOR/ORGANIZADOR
+#SOBRE O AUTOR/ORGANIZADOR
+	
 	Engº Diassilua Paulo Simão
+	
 	Email: diassilua.paulo.simao@outlook.com
+	
 	Watsapp: 945560400
+	
 	Instagram: kundiama_ao
+	
 	Facebook: Paulo Simão Simão
 	
